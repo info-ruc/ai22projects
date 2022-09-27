@@ -8,6 +8,7 @@ In simple words, paraphrase is just an alternative representation of the same me
 
 Dataset(Arxiv6K) for Projects #1 and #2:
 About: 6000+ Arxiv papers from CS category at 2020. 
+
 Dataset URL: https://pan.baidu.com/s/1DsLVmZno7JSWxNQ9CBbBJQ
 Dataset size: ~20G(compressed).
 
