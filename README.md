@@ -4,16 +4,16 @@ reports collected for AI class project @2022
 
 # Report Naming Convension
 ```
-student_id（folder）  
+2020201512
   ┃
-  ┗ student_id.md / student_id.docx / ...  
+  ┗ 2020201512.pptx / 2020201512.docx
   ┃
-  ┗ src (folder)
+  ┗ src
   ┃  ┃
-  ┃  ┗ scripts (folder) for codes.
-  ┃  ┗ dataset (folder) for datasets > 50M, please use pan.baidu.com, and leave url here.
+  ┃  ┗ scripts
+  ┃  ┗ dataset
   ┃
-  ┗ extra (folder) extra files used for the project
+  ┗  AI Tasks #3(DIY)
   
 ```
  
